@@ -1,0 +1,29 @@
+IG_UI_FR = {
+	IGUI_VehicleName87chevySuburban = "'87 Chevrolet Suburban",
+	IGUI_VehicleName87chevySuburbanOP = "'87 Chevrolet Suburban Offroad Pack",
+	IGUI_VehicleName87chevySuburbanCUCV = "'87 Chevrolet Suburban CUCV",
+
+	IGUI_VehiclePartSUB87BumperFront = "Pare-chocs avant",
+	IGUI_VehiclePartSUB87BumperRear = "Pare-chocs arrière",
+	IGUI_VehiclePartSUB87SpareTire = "Pneu de secours",
+	IGUI_VehiclePartSUB87SideSteps = "Marches latérales",
+	IGUI_VehiclePartSUB87RoofLights = "Lumières de toit",
+
+	IGUI_VehiclePartSUB87WindshieldArmor = "Blindage de pare-brise",
+	IGUI_VehiclePartSUB87WindshieldRearArmor = "Blindage de pare-brise arrière",
+	IGUI_VehiclePartSUB87WindowFrontLeftArmor = "Blindage de la vitre avant gauche",
+	IGUI_VehiclePartSUB87WindowFrontRightArmor = "Blindage de la vitre avant droite",
+	IGUI_VehiclePartSUB87WindowRearLeftArmor = "Blindage de la vitre arrière gauche",
+	IGUI_VehiclePartSUB87WindowRearRightArmor = "Blindage de la vitre arrière droite",
+	IGUI_VehiclePartSUB87WindowBackLeftArmor = "Blindage de la vitre arrière gauche",
+	IGUI_VehiclePartSUB87WindowBackRightArmor = "Blindage de la vitre arrière droite",
+
+	IGUI_VehiclePartSUB87Trunk = "Rangement du coffre",
+	IGUI_VehiclePartSUB87Roofrack = "Rangement sur le toit",
+	IGUI_VehiclePartSUB87Gunrack = "Support pour fusils",
+
+	IGUI_VehiclePartSUB87GasCan0 = "Bidon d'essence",
+	IGUI_VehiclePartSUB87GasCan1 = "Bidon d'essence",
+	IGUI_VehiclePartSUB87GasCan2 = "Bidon d'essence",
+	IGUI_VehiclePartSUB87Generator = "Generateur",
+}
